@@ -31,7 +31,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="bootstrap" width="40" height="40" />
   </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="[https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAxanM3MHZla3FoZmNlNWsyc29odmc5NDE1aXZlZ25yZmd2b3dyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif)" alt="HTML5" width="40" height="40" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAxanM3MHZla3FoZmNlNWsyc29odmc5NDE1aXZlZ25yZmd2b3dyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" alt="HTML5" width="40" height="40" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
