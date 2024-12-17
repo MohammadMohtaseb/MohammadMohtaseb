@@ -1,6 +1,6 @@
 <!-- Add a banner at the top -->
 <p align="center">
-  <img src="https://path-to-your-banner-image.png" alt="Banner" style="width:100%; max-width:900px; border-radius:10px;">
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" alt="Banner" style="width:100%; max-width:900px; border-radius:10px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad AlMohtaseb</h1>
