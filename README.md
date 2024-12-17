@@ -31,7 +31,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="bootstrap" width="40" height="40" />
   </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHAxanM3MHZla3FoZmNlNWsyc29odmc5NDE1aXZlZ25yZmd2b3dyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" alt="HTML5" width="40" height="40" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJmczRmMWFrYXJvOGc5d2xjdnJyaWc3OWlvNGxxaDJ1bDk3NG5saCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRNinuXDDLgR7Oe8LY/giphy.gif" alt="HTML5" width="40" height="40" />
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
@@ -43,16 +43,16 @@
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascript" width="40" height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJsaXF0MGE2eXM1MWdraGM5NGZxZTZrOXMyYTQwb2FjdWhyNHp6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kHlrPbN9zaoOo7KXDo/giphy.gif" alt="laravel" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ExdGQ4YXI1bWdxcGp4bWdqc2RzY2Nna3dycTRhOG44MGEwdG0yayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDlpNnY5MHBmZWp3ZHY4dGV0dDVndWhzM3ZlNG80cWg0MGEzNnA4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JqDcpPX8vWahUny0pE/giphy.gif" alt="php" width="40" height="40" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="40" height="40" />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdpOGFtbWF4anF3MDhjZHUyMGM5M20yNWN0eTkwNmNnZzJkcW0zbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iFmw13LV1hHhViPPWz/giphy.gif" alt="react" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
