@@ -5,6 +5,9 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad AlMohtaseb</h1>
 <h3 align="center">I am a Civil Engineer transitioning to a Full Stack Web Developer.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Laravel+Developer;React+Developer;PHP+%7C+MySQL;JavaScript+%7C+HTML+%26+CSS;Git+%26+GitHub+Lover" alt="Typing SVG" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmohtaseb&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmohtaseb" /> </p>
 
